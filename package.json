@@ -1,0 +1,16 @@
+{
+  "name": "reject-fail",
+  "version": "1.0.0",
+  "description": "Log and exit process on unhandled Promise rejections",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/txase/reject-fail.git"
+  },
+  "author": "Chase Douglas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/txase/reject-fail/issues"
+  },
+  "homepage": "https://github.com/txase/reject-fail#readme"
+}
